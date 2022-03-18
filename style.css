@@ -1,5 +1,5 @@
 body {
-				background: url('https://cutewallpaper.org/21/infinite-background/infinite-labs-hex-background-Infinite-Labs.jpg');
+				background: darkgray;
 }
 
 @font-face  {
@@ -127,7 +127,7 @@ body {
 }
 
 .contenedor .pelicula .descripcion {
-	font-size: 10px;
+	font-size: 20px;
 	font-weight: 300;
 	color: #FFFFFF;
 	padding: 5px
